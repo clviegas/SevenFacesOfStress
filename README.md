@@ -1,15 +1,19 @@
 # The Seven Faces of Stress: Understanding Facial Activity Patterns during Cognitive Stress
-Carla Viegas, Roy Maxion, Alexander Hauptmann, and Joaão Magalhães
+Authors: Carla Viegas, Roy Maxion, Alexander Hauptmann, and João Magalhães
 
-# Proposed Method
+<img src="seven_faces_stress.png" alt="drawing" width="600"/>
+
+
+This repository contains additional information for FG2024 paper.
+
+## Proposed Method
 
 ![alt text](https://github.com/clviegas/SevenFacesOfStress/blob/main/diagram_methods.png?raw=true)
 
 
-# Results
+## Results
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/seven_faces_stress.png?raw=true)
-
+![alt text](https://github.com/clviegas/SevenFacesOfStress/blob/main/finalb_cluster_overview.png?raw=true)
 
 
 ## Data access
@@ -48,7 +52,6 @@ publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
 url = {https://doi.org/10.1145/3281151.3281158},
 doi = {10.1145/3281151.3281158},
-abstract = {Long-exposure to stress is known to lead to physical and mental health problems. But how can we as individuals track and monitor our stress? Wearables which measure heart variability have been studied to detect stress. Such devices, however, need to be worn all day long and can be expensive. As an alternative, we propose the use of frontal face videos to distinguish between stressful and non-stressful activities. Affordable personal tracking of stress levels could be obtained by analyzing the video stream of inbuilt cameras in laptops. In this work, we present a preliminary analysis of 114 one-hour long videos. During the video, the subjects perform a typing exercise before and after being exposed to a stressor. We performed a binary classification using Random Forest (RF) to distinguish between stressful and non-stressful activities. As features, facial action units (AUs) extracted from each video frame were used. We obtained an average accuracy of over 97\% and 50\% for subject dependent and subject independent classification, respectively.},
 booktitle = {Proceedings of the 20th International Conference on Multimodal Interaction: Adjunct},
 articleno = {7},
 numpages = {6},
